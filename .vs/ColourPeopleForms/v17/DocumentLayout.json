@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|c:\\users\\opilane\\source\\repos\\colourpeopleforms\\colourpeopleforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|solutionrelative:colourpeopleforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|c:\\users\\opilane\\source\\repos\\colourpeopleforms\\colourpeopleforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|solutionrelative:colourpeopleforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|c:\\users\\opilane\\source\\repos\\colourpeopleforms\\colourpeopleforms\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|solutionrelative:colourpeopleforms\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|c:\\users\\opilane\\source\\repos\\colourpeopleforms\\colourpeopleforms\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|solutionrelative:colourpeopleforms\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|c:\\users\\opilane\\source\\repos\\colourpeopleforms\\colourpeopleforms\\peoplescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|solutionrelative:colourpeopleforms\\peoplescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|c:\\users\\opilane\\source\\repos\\colourpeopleforms\\colourpeopleforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|solutionrelative:colourpeopleforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|c:\\users\\opilane\\source\\repos\\colourpeopleforms\\colourpeopleforms\\colourpeopleforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|solutionrelative:colourpeopleforms\\colourpeopleforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|c:\\users\\opilane\\source\\repos\\colourpeopleforms\\colourpeopleforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3459FE-D489-486C-B3E4-1EB4229E9635}|ColourPeopleForms\\ColourPeopleForms.csproj|solutionrelative:colourpeopleforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ColourPeopleForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\Form1.Designer.cs",
+              "RelativeToolTip": "ColourPeopleForms\\Form1.Designer.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAIkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:42:47.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\Form1.cs",
+              "RelativeDocumentMoniker": "ColourPeopleForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\Form1.cs",
+              "RelativeToolTip": "ColourPeopleForms\\Form1.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAewEoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:39:54.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColourPeopleForms",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\ColourPeopleForms.csproj",
+              "RelativeDocumentMoniker": "ColourPeopleForms\\ColourPeopleForms.csproj",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\ColourPeopleForms.csproj",
+              "RelativeToolTip": "ColourPeopleForms\\ColourPeopleForms.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T12:36:14.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeoplesContext.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\PeoplesContext.cs",
+              "RelativeDocumentMoniker": "ColourPeopleForms\\PeoplesContext.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\PeoplesContext.cs",
+              "RelativeToolTip": "ColourPeopleForms\\PeoplesContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:36:44.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\Program.cs",
+              "RelativeDocumentMoniker": "ColourPeopleForms\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\Program.cs",
+              "RelativeToolTip": "ColourPeopleForms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:36:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\Category.cs",
+              "RelativeDocumentMoniker": "ColourPeopleForms\\Category.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\Category.cs",
+              "RelativeToolTip": "ColourPeopleForms\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:35:09.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "People.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\People.cs",
+              "RelativeDocumentMoniker": "ColourPeopleForms\\People.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\People.cs",
+              "RelativeToolTip": "ColourPeopleForms\\People.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:34:43.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\Form1.cs",
+              "RelativeDocumentMoniker": "ColourPeopleForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ColourPeopleForms\\ColourPeopleForms\\Form1.cs [Design]",
+              "RelativeToolTip": "ColourPeopleForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:34:23.162Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
